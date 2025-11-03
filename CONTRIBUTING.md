@@ -58,17 +58,15 @@ To ensure a smooth process, please follow these steps:
 
 4. Go to the original repository on GitHub and **submit a Pull Request (PR)**.
 
-### Step 4: Checks and Review
+### Step 4: Review and Merge
 
-Once you submit your PR, a series of automated checks will run.
+That's it! Once you've submitted your PR:
 
-* **Please ensure your PR passes all checks:**
-  * `✅ Link Checker:` Verifies that all links in your README are working and not broken.
-  * `✅ Markdown Linter:` Checks for formatting errors in your Markdown file.
+* **Please double-check** that your submission follows the guidelines from Step 2 (e.g., correct filename `YOUR-USERNAME.md` and the credit link at the bottom).
+* A maintainer will review your submission as soon as possible.
+* We may request small changes to ensure quality and consistency.
 
-A maintainer will review your submission. We may request changes to ensure quality and consistency. Once approved, your template will be merged!
-
----
+Once approved, your template will be merged and will appear in the live viewer.
 
 ## Other Ways to Contribute
 
