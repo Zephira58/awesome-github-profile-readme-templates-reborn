@@ -1,0 +1,49 @@
+{
+  "hash": "05fe444f",
+  "configHash": "17520a55",
+  "lockfileHash": "f7f456c1",
+  "browserHash": "d14e1946",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "e7a69c52",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "3ea53632",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "91fb055a",
+      "needsInterop": true
+    },
+    "react-markdown": {
+      "src": "../../node_modules/react-markdown/index.js",
+      "file": "react-markdown.js",
+      "fileHash": "60714a42",
+      "needsInterop": false
+    },
+    "rehype-raw": {
+      "src": "../../node_modules/rehype-raw/index.js",
+      "file": "rehype-raw.js",
+      "fileHash": "1ac1bb1d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-4BPZ7PBZ": {
+      "file": "chunk-4BPZ7PBZ.js"
+    },
+    "chunk-65HTWWNP": {
+      "file": "chunk-65HTWWNP.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
